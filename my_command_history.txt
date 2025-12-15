@@ -1,0 +1,14 @@
+15-12-2025 00:11:27   33  cd ./RUST-Foundations/
+15-12-2025 00:11:31   34  code .
+15-12-2025 00:12:03   29  python train_model.py 
+15-12-2025 00:19:18   31  cargo --version
+15-12-2025 00:19:21   33  cargo --version
+15-12-2025 00:19:25   29  python train_model.py 
+15-12-2025 00:19:28   31  cargo --version
+15-12-2025 00:20:11   29  python train_model.py 
+15-12-2025 00:22:20   30  rustc ./hello_rust.rs
+15-12-2025 00:22:34   31  rustc hello_rust.rs
+15-12-2025 00:22:43   33  cargo --version
+15-12-2025 00:22:49   34  source 
+15-12-2025 14:26:24   29  python train_model.py 
+15-12-2025 17:57:32   29  python train_model.py 
